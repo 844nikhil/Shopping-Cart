@@ -1,0 +1,7 @@
+#files and directories to be ignored
+
+*.exe
+*.json
+!package.json
+*.env
+node_modules/
